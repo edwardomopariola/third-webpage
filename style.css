@@ -1,0 +1,33 @@
+img {
+    width: 10rem;
+    height: 13rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: silver;
+}
+
+.container-fluid img {
+    width: 4rem;
+    height: 4rem;
+}
+
+.container-fluid {
+    height: 5rem;
+    padding: 3rem;
+    background-color: rgb(33, 33, 112);
+    color: white;
+    text-decoration-color: white;
+}
+
+.nav-link {
+    color: red;
+}
+
+.white-container  {
+    background-color: whitesmoke;
+    padding: 5rem;
+    margin-top: 5rem;
+}
