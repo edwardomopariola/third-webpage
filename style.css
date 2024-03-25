@@ -1,6 +1,6 @@
 img {
-    width: 10rem;
-    height: 13rem;
+    width: 10em;
+    height: 13em;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -10,24 +10,23 @@ body {
 }
 
 .container-fluid img {
-    width: 4rem;
-    height: 4rem;
+    width: 3em;
+    height: 3em;
 }
 
 .container-fluid {
-    height: 5rem;
-    padding: 3rem;
-    background-color: rgb(33, 33, 112);
+    height: 5em;
+    background-color: rgb(85, 85, 148);
     color: white;
     text-decoration-color: white;
 }
 
 .nav-link {
-    color: red;
+    color: white;
 }
 
 .white-container  {
-    background-color: whitesmoke;
-    padding: 5rem;
-    margin-top: 5rem;
+    background-color: white;
+    padding: 5em;
+    margin-top: 5em;
 }
