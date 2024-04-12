@@ -1,3 +1,18 @@
+#navbarNav {
+    justify-content: flex-end;
+}
+
+.nav-link {
+    margin-left: 2px;
+    text-align: start;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
 img {
     width: 10em;
     height: 13em;
